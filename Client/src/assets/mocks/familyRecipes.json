@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "picture": "path_to_recipe1_image.jpg",
+      "owner": "John",
+      "when_usually_made": "Christmas",
+      "ingredients": ["1 cup of sugar", "2 cups of flour", "1/2 cup of butter"],
+      "instructions": "Mix all ingredients and bake for 20 minutes at 350°F."
+    },
+    {
+      "id": 2,
+      "picture": "https://img.spoonacular.com/recipes/716429-556x370.jpg",
+      "owner": "Jane",
+      "when_usually_made": "Thanksgiving",
+      "ingredients": ["2 lbs of turkey", "1 cup of cranberry sauce", "3 cups of stuffing"],
+      "instructions": "Roast the turkey and serve with cranberry sauce and stuffing."
+    },
+    {
+      "id": 3,
+      "picture": "path_to_recipe3_image.jpg",
+      "owner": "Alice",
+      "when_usually_made": "Birthday",
+      "ingredients": ["3 cups of flour", "2 cups of sugar", "1 cup of milk"],
+      "instructions": "Mix ingredients and bake at 375°F for 25 minutes."
+    }
+  ]
+  
