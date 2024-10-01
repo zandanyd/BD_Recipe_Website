@@ -9,7 +9,7 @@ This project is a Recipe Management web application that allows users to registe
 4. Personal Recipe Collection: Add, edit, and delete personal recipes. 
 5. Recipe Details: View full details of a recipe, including ingredients, instructions, and nutritional information.
 
-6. ## To run locally:
+## To run locally:
 1. open two terminals.
 2. In the first terminal run node server/main.js to start the backend server.
 3. In the second terminal, navigate to the client directory and run npm run serve to start the frontend.
