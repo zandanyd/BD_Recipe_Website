@@ -1,22 +1,47 @@
-# Recipe Management Web Application
+# Recipe Management Web Application 🍽️
 ## Overview
-This project is a Recipe Management web application that allows users to register, log in, search, and manage recipes. The application uses Vue.js for the frontend and integrates with a backend server to handle user authentication, recipe management, and search functionalities. Users can manage their personal recipe collection, mark recipes as favorites, and search for new recipes using filters like ingredients and cuisine type.
+This Recipe Management Web Application allows users to register, log in, search recipes by various criteria, manage personal recipes, and keep track of favorite recipes. Built using Vue.js for the frontend and Node.js for the backend, the platform provides a simple and intuitive user experience.
 
-## Features
-1. User Authentication: Register and log in with secure user authentication.
-2. Recipe Search: Search for recipes using filters such as ingredients, cuisine, and more.
-3. Favorite Recipes: Mark and view favorite recipes in a dedicated section.
-4. Personal Recipe Collection: Add, edit, and delete personal recipes. 
-5. Recipe Details: View full details of a recipe, including ingredients, instructions, and nutritional information.
+## 🚀 Features
+Secure Authentication: Easily sign up and log in securely.
+Advanced Recipe Search: Filter recipes by ingredients, cuisine, and more.
+Favorites: Mark recipes as favorites and access them quickly.
+Personal Recipe Management: Add, edit, and delete your own recipes.
+Detailed Recipe View: View ingredients, preparation steps, and more.
 
-## To run locally:
-1. open two terminals.
-2. In the first terminal run node server/main.js to start the backend server.
-3. In the second terminal, navigate to the client directory and run npm run serve to start the frontend.
-4. Now you can open your favorite browser and enter the URL http://localhost:8080/ to start using the website.
+## 🔧 Prerequisites
+Node.js (version 16+ recommended)
+Git (optional for cloning repository)
+
+## Verify your installations:
+node --version
+npm --version
+
+# 🚀 Installation & Setup
+Clone the repository
+git clone https://github.com/<your-github>/<repo-name>.git
+
+## Backend Setup
+Open terminal in the server directory:
+cd server
+npm install
+node server.js
+
+## Frontend Setup & Run
+Navigate to your local project directory and install dependencies:
+example : cd "C:\example\GitHub\BD_Recipe_Website\Client"
+npm install
+npm run serve
+
+## 🌐 Access the application
+Open your browser and go to:
+http://localhost:8080/
+
+# 📸 Screenshots
+![צילום מסך 2025-03-11 174030](https://github.com/user-attachments/assets/2bdfd77d-2802-410d-8a0f-5493ba9b667e)
 
 
+🤝 Contribution
+Contributions and suggestions are welcome! Please open an issue or submit a pull request.
 
-
-
-
+Enjoy cooking!
