@@ -10,6 +10,3 @@ This project is a Recipe Management web application that allows users to registe
 5. Recipe Details: View full details of a recipe, including ingredients, instructions, and nutritional information.
 
 
-## Dvir Zandany 316128529
-
-## Ido Dai 207757535
