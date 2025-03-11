@@ -37,6 +37,18 @@ npm run serve
 Open your browser and go to:
 http://localhost:8080/
 
+![צילום מסך 2025-03-11 174438](https://github.com/user-attachments/assets/0efeca97-f4cc-48f4-b3be-f894ad375126)
+
+![צילום מסך 2025-03-11 174521](https://github.com/user-attachments/assets/5a88e5f7-55ea-40b0-abd8-79c860f5066c)
+
+![צילום מסך 2025-03-11 174631](https://github.com/user-attachments/assets/0c678e55-0f19-48b9-a3f1-6c731b63c845)
+
+
+![צילום מסך 2025-03-11 174756](https://github.com/user-attachments/assets/e135f089-0984-4653-9825-783277aa277a)
+
+
+![צילום מסך 2025-03-11 174716](https://github.com/user-attachments/assets/47d11b30-494a-4265-aa0e-c8cb101e646d)
+
 # 📸 Screenshots
 ![צילום מסך 2025-03-11 174030](https://github.com/user-attachments/assets/2bdfd77d-2802-410d-8a0f-5493ba9b667e)
 
